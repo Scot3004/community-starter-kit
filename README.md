@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Proyecto para aprender a tener una buena comunidad en github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+aprendizaje de pull request, issues 
 
 ## Getting started
 
