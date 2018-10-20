@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Bienvenido contribuidor, por favor lee las guias y ayudanos a mejorar mutuamente
